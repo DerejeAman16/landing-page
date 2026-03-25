@@ -76,7 +76,7 @@ landing-page/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/landing-page.git
+git clone https://github.com/DerejeAman16/landing-page.git
 
 # 2. Navigate into the project
 cd landing-page
