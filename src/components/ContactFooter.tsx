@@ -96,7 +96,7 @@ export function ContactFooter() {
 
                     {/* Copyright */}
                     <p className="text-center text-slate-400 text-sm">
-                        © {currentYear} Landik. Design and coded by ThemesBoss.
+                        © {currentYear} Cyber. Design and coded by ThemesBoss.
                     </p>
                 </div>
             </div>

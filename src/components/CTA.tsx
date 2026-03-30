@@ -19,7 +19,7 @@ export function CTA() {
 
                     <div className="text-left max-w-2xl relative z-10">
                         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6">
-                            Get Started With Landik
+                            Get Started With Cyber
                         </h2>
                         <p className="text-lg text-white/80 leading-relaxed font-medium">
                             It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.

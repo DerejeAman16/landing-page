@@ -15,7 +15,7 @@ export function ServiceFooter() {
                         <div className="w-8 h-8 bg-[#00A396] rounded-lg flex items-center justify-center text-white font-bold text-sm">
                             L
                         </div>
-                        <span>LANDIK</span>
+                        <span>CYBER</span>
                     </Link>
 
                     <div className="flex items-center gap-3">
@@ -69,7 +69,7 @@ export function ServiceFooter() {
                 {/* Copyright */}
                 <div className="text-center pt-6 border-t border-slate-700/50">
                     <p className="text-slate-500 text-sm">
-                        © {currentYear} Landik. Design and coded by ThemesBoss.
+                        © {currentYear} Cyber. Design and coded by ThemesBoss.
                     </p>
                 </div>
             </div>

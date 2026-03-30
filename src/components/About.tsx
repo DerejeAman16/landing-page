@@ -47,7 +47,7 @@ export function About() {
                         className="flex-1"
                     >
                         <h2 className="text-3xl md:text-4xl font-bold text-text-main mb-6 leading-tight">
-                            Landik Provide <br className="hidden md:block" />
+                            Cyber Provide <br className="hidden md:block" />
                             <span className="text-primary">Unique Smart Features</span>
                         </h2>
                         <p className="text-text-muted text-lg mb-8 leading-relaxed">

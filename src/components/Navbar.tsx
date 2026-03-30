@@ -40,7 +40,7 @@ export function Navbar() {
                         <path d="M12 8C10 4 6 2 4 2C6 4 7 6 8 8C9 10 10 10 12 8Z" fill="#08979c" opacity="0.7" />
                         <path d="M20 8C22 4 26 2 28 2C26 4 25 6 24 8C23 10 22 10 20 8Z" fill="#08979c" opacity="0.7" />
                     </svg>
-                    <span className="uppercase tracking-wide">Landik</span>
+                    <span className="uppercase tracking-wide">Cyber</span>
                 </Link>
 
                 <div className="hidden md:flex items-center gap-8">

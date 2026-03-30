@@ -14,7 +14,7 @@ export function Footer() {
                         <svg width="28" height="28" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M16 2C14 6 10 8 8 12C6 16 8 20 10 22C12 24 14 28 16 30C18 28 20 24 22 22C24 20 26 16 24 12C22 8 18 6 16 2Z" fill="#08979c" />
                         </svg>
-                        <span className="uppercase tracking-wide">Landik</span>
+                        <span className="uppercase tracking-wide">Cyber</span>
                     </Link>
 
                     <div className="flex flex-wrap justify-center items-center gap-x-8 gap-y-4">
@@ -31,7 +31,7 @@ export function Footer() {
                 {/* Bottom Row: Copyright and Socials */}
                 <div className="flex flex-col md:flex-row items-center justify-between gap-8 pt-10">
                     <p className="text-sm">
-                        © {currentYear} Landik. Design and coded by <span className="text-white font-medium hover:text-primary transition-colors cursor-pointer">ThemesBoss</span>.
+                        © {currentYear} Cyber. Design and coded by <span className="text-white font-medium hover:text-primary transition-colors cursor-pointer">ThemesBoss</span>.
                     </p>
 
                     <div className="flex items-center gap-4">

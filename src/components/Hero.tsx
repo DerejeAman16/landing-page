@@ -29,7 +29,7 @@ export function Hero() {
                         </div>
 
                         <h1 className="text-3xl md:text-[54px] font-bold leading-[1.3] md:leading-[1.4] text-text-main mb-6 font-nunito">
-                            Welcome To The <span className="text-text-main">Landik Ui kit</span>
+                            Welcome To The <span className="text-text-main">Cyber Ui kit</span>
                         </h1>
 
                         <p className="text-base md:text-lg text-text-muted mb-10 max-w-lg mx-auto leading-relaxed font-nunito">

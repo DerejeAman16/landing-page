@@ -8,7 +8,7 @@ const features = [
         badge: "PERFACT DESIGN",
         title: "It's Everything You'll Ever Need.",
         description:
-            "Create custom landing pages with Landik that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.",
+            "Create custom landing pages with Cyber that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.",
         imagePosition: "right" as const,
         imageSrc: "/feature-1.jpg",
     },
@@ -16,7 +16,7 @@ const features = [
         badge: "USER INTERFACE",
         title: "Unlimited Features Awaiting For You",
         description:
-            "Create custom landing pages with Landik that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.",
+            "Create custom landing pages with Cyber that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.",
         imagePosition: "left" as const,
         imageSrc: "/feature-2.jpg",
     },

@@ -13,7 +13,7 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "Landik - Modern Landing Page",
+  title: "Cyber - Modern Landing Page",
   description: "A high-converting, modern landing page built with Next.js and Tailwind CSS.",
 };
 
